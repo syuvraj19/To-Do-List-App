@@ -12,19 +12,10 @@ Welcome to the **To-Do List App**! This project is a sleek and functional to-do 
 - **Dark Mode:** Toggle between light and dark mode for a better user experience.
 - **Tab Management:** Organize tasks with separate tabs for Personal and Professional tasks.
 
-## 🎥 Demo
-
-Check out a live demo of the app in action!
-
-![Demo GIF](demo.gif)
-
 ## 📸 Screenshots
 
-### Light Mode
-![Light Mode](light_mode.png)
-
 ### Dark Mode
-![Dark Mode](dark_mode.png)
+<img width="1206" alt="Screenshot 2024-07-29 at 12 17 39 PM" src="https://github.com/user-attachments/assets/79c46fc6-f4cc-4d47-ac05-5a28e2ef402a">
 
 ## 📥 Installation
 
